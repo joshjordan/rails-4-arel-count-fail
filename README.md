@@ -16,3 +16,5 @@ ActiveRecord::StatementInvalid: SQLite3::SQLException: unrecognized token: "#": 
 
 1 runs, 0 assertions, 0 failures, 1 errors, 0 skips
 ```
+
+<img src="https://ga-beacon.appspot.com/UA-54979717-1/joshjordan/rails-4-arel-count-fail" width=0 height=0>
